@@ -32,7 +32,7 @@ Enter your choice: 1
 Enter book title: Java Basics<br>
 Enter book author: John Doe<br>
 Book added: Java Basics<br><br>
-<h3>Requirements</h3><br>
+<h3>Requirements</h3>
 Java Development Kit (JDK) 8 or higher.<br><br>
-<h3>Author</h3><br>
+<h3>Author</h3>
 This code was created as a basic example for managing a library. Feel free to enhance it by adding features such as saving data to a file or integrating a graphical user interface (GUI).
