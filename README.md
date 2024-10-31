@@ -20,7 +20,7 @@ Choose 5 to exit the system.<br><br>
 Book Class: Represents a single book, with properties for the title, author, and issued status.<br>
 Library Class: Manages a collection of books and provides methods to add, view, issue, and return books.<br>
 LibraryManagementSystem (Main Class): Contains the main method and handles user interactions.<br><br>
-<h3>EXAMPLE:</h3><br>
+<h3>EXAMPLE:</h3>
 Library Management System<br>
 1. Add Book<br>
 2. View Books<br>
@@ -28,7 +28,7 @@ Library Management System<br>
 4. Return Book<br>
 5. Exit<br>
 Enter your choice: 1
-<br><br>
+<br>
 Enter book title: Java Basics<br>
 Enter book author: John Doe<br>
 Book added: Java Basics<br><br>
