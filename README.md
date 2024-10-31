@@ -1,6 +1,6 @@
-#Library Management System
+<h1>Library Management System</h1>
 
-This Java program is a basic console-based Library Management System. It allows users to manage a collection of books by adding new books, viewing available books, issuing books to users, and returning issued books.
+<h3>This Java program is a basic console-based Library Management System. It allows users to manage a collection of books by adding new books, viewing available books, issuing books to users, and returning issued books.</h3>
 
 Features
 Add Book: Add a new book to the library by providing the title and author.
@@ -36,5 +36,6 @@ Enter book author: John Doe
 Book added: Java Basics
 Requirements
 Java Development Kit (JDK) 8 or higher.
+<br>
 Author
 This code was created as a basic example for managing a library. Feel free to enhance it by adding features such as saving data to a file or integrating a graphical user interface (GUI).
