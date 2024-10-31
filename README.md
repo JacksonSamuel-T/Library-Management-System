@@ -16,7 +16,7 @@ Choose 2 to view available books.<br>
 Choose 3 to issue a book by its title.<br>
 Choose 4 to return a book by its title.<br>
 Choose 5 to exit the system.<br><br>
-<h3>Code Structur</h3>e<br>
+<h3>Code Structure</h3><br>
 Book Class: Represents a single book, with properties for the title, author, and issued status.<br>
 Library Class: Manages a collection of books and provides methods to add, view, issue, and return books.<br>
 LibraryManagementSystem (Main Class): Contains the main method and handles user interactions.<br><br>
